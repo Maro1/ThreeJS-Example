@@ -1,0 +1,8 @@
+Model Information:
+* title:	Pharmaceutical mortar
+* source:	https://sketchfab.com/3d-models/pharmaceutical-mortar-331027dcfc934eec955d30abf8cf9916
+* author:	Virtual Museums of Małopolska (https://sketchfab.com/WirtualneMuzeaMalopolski)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
